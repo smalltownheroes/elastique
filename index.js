@@ -1,1 +1,1 @@
-module.exports = require('./lib/elastique')
+module.exports = require('./lib/elastique');

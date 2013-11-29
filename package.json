@@ -2,7 +2,7 @@
   "name": "elastique",
   "version": "0.0.1",
   "description": "elastique module for nodejs",
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "test": "grunt test"
   },
