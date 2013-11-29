@@ -1,0 +1,24 @@
+{
+  "name": "elastique",
+  "version": "0.0.1",
+  "description": "elastique module for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smalltownheroes/elastique.git"
+  },
+  "author": "Ilja Strobbe <ilja@smalltownheroes.be>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/smalltownheroes/elastique/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1",
+    "grunt": "~0.4.2",
+    "grunt-mocha-test": "~0.8.0"
+  }
+}
