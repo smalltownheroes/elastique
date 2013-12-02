@@ -21,6 +21,15 @@
     "grunt": "~0.4.2",
     "grunt-mocha-test": "~0.8.0"
   },
+  "keywords": [
+    "push",
+    "notifications",
+    "android",
+    "ios",
+    "webservice",
+    "elastique",
+    "api"
+  ],
   "dependencies": {
     "request": "~2.27.0"
   }
