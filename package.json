@@ -4,7 +4,8 @@
   "description": "elastique module for nodejs",
   "main": "index",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "example": "node ./example/push.js"
   },
   "repository": {
     "type": "git",

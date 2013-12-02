@@ -5,9 +5,9 @@ var elastique = new Elastique('da491276fa96132ef33c63dccce3cde4', 'ee54a5e177f3f
 elastique.push("test");
 
 elastique.on('success', function(){
-	console.log('success');
+	console.log('Push notificiation successfully sent');
 });
 
-elastique.on('error', function(){
-	console.error('error');
+elastique.on('error', function(err){
+	console.error('Error sending push notificiation', err);
 });
