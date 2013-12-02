@@ -8,7 +8,7 @@ http://push.elastique.nl/
 
 ## Quick Start
 ```js
-var Elastique = require('../lib/elastique');
+var Elastique = require('elastique');
 var elastique = new Elastique([yourApiKey], [yourApiSecret]);
 elastique.on('success', function(){ 
 	console.log('Push notificiation successfully sent'); 
