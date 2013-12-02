@@ -1,6 +1,6 @@
 {
   "name": "elastique",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "elastique module for nodejs",
   "main": "index",
   "scripts": {
@@ -12,7 +12,6 @@
     "url": "git://github.com/smalltownheroes/elastique.git"
   },
   "author": "Ilja Strobbe <ilja@smalltownheroes.be>",
-  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/smalltownheroes/elastique/issues"
   },
