@@ -16,7 +16,7 @@ elastique.on('success', function(){
 elastique.on('error', function(err){ 
 	console.error('Error sending push notificiation', err); 
 });
-elastique.push 'your awesome push notificiation'
+elastique.push('your awesome push notificiation');
 ```
 
 ## Example
