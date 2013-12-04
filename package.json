@@ -1,6 +1,6 @@
 {
   "name": "elastique",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "elastique module for nodejs",
   "main": "index",
   "scripts": {
